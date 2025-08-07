@@ -200,8 +200,15 @@ def main():
             'vehicle.jeep.wrangler_rubicon',
             'vehicle.mercedes.coupe_2020',
             'vehicle.nissan.micra',
-            'vehicle.dodge.charger_police',
-            'vehicle.ford.mustang'
+            'vehicle.ford.mustang',
+            'vehicle.lincoln.mkz_2020',
+            'vehicle.jeep.wrangler_rubicon',
+            'vehicle.micro.microlino',
+            'vehicle.carlamotors.carlacola',
+            'vehicle.nissan.patrol',
+            'vehicle.ford.crown',
+            'vehicle.tesla.cybertruck',
+            'vehicle.volkswagen.t2'
         ]
         
         # Get blueprints for target vehicles only
