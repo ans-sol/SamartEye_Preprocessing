@@ -44,10 +44,10 @@ def get_actor_blueprints(world, filter, generation):
             bps = [x for x in bps if int(x.get_attribute('generation')) == int_generation]
             return bps
         else:
-            print("   Warning! Actor Generation is not valid. No actor will be spawned.")
+            print(" Warning! Actor Generation is not valid. No actor will be spawned.")
             return []
     except:
-        print("   Warning! Actor Generation is not valid. No actor will be spawned.")
+        print(" Warning! Actor Generation is not valid. No actor will be spawned.")
         return []
 
 def main():

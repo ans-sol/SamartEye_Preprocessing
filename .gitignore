@@ -1,1 +1,7 @@
 /python310
+/gpu/best_model.pth
+*.pt
+
+*.jpg
+
+*.pyc

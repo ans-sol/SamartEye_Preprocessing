@@ -1,0 +1,32 @@
+{
+  "host": "127.0.0.1",
+  "port": 2000,
+  "town": "Town02",
+  "number_of_vehicles": 50,
+  "number_of_walkers": 2,
+  "safe": true,
+  "generationv": "All",
+  "generationw": "2",
+  "tm_port": 8000,
+  "asynch": true,
+  "hybrid": false,
+  "car_lights_on": false,
+  "hero": false,
+  "respawn": true,
+  "no_rendering": false,
+  "max_speed": 50.0,
+  "vehicle_selection": [
+    "vehicle.tesla.cybertruck",
+    "vehicle.audi.tt",
+    "vehicle.mercedes.coupe_2020",
+    "vehicle.jeep.wrangler_rubicon",
+    "vehicle.lincoln.mkz_2020",
+    "vehicle.nissan.micra",
+    "vehicle.ford.mustang",
+    "vehicle.micro.microlino",
+    "vehicle.carlamotors.carlacola",
+    "vehicle.nissan.patrol",
+    "vehicle.ford.crown",
+    "vehicle.volkswagen.t2"
+  ]
+}
